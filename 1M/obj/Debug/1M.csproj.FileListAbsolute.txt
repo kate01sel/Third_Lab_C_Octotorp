@@ -1,0 +1,20 @@
+c:\users\user\source\repos\1M\1M\bin\Debug\1M.exe.config
+c:\users\user\source\repos\1M\1M\bin\Debug\1M.exe
+c:\users\user\source\repos\1M\1M\bin\Debug\1M.pdb
+c:\users\user\source\repos\1M\1M\obj\Debug\1M.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\1M\1M\obj\Debug\_1M.Form1.resources
+c:\users\user\source\repos\1M\1M\obj\Debug\_1M.Properties.Resources.resources
+c:\users\user\source\repos\1M\1M\obj\Debug\1M.csproj.GenerateResource.cache
+c:\users\user\source\repos\1M\1M\obj\Debug\1M.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\1M\1M\obj\Debug\1M.exe
+c:\users\user\source\repos\1M\1M\obj\Debug\1M.pdb
+D:\загрузки\Лаба 1 Образцова\1M\1M\bin\Debug\1M.exe.config
+D:\загрузки\Лаба 1 Образцова\1M\1M\bin\Debug\1M.exe
+D:\загрузки\Лаба 1 Образцова\1M\1M\bin\Debug\1M.pdb
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\1M.csprojAssemblyReference.cache
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\_1M.Form1.resources
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\_1M.Properties.Resources.resources
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\1M.csproj.GenerateResource.cache
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\1M.csproj.CoreCompileInputs.cache
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\1M.exe
+D:\загрузки\Лаба 1 Образцова\1M\1M\obj\Debug\1M.pdb
